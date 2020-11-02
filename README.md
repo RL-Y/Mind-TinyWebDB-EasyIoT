@@ -1,0 +1,2 @@
+# Mind-TinyWebDB-EasyIoT
+前言：利用Mind+图形化软件结合掌控板、DS18B20或LM35、二哈等硬件配合TinywebDB云数据库及EasyIoT物联网云平台实现数据自动化上传，测温记录将自动保存，可以提高效率并减小错误率。 要求实现利用DS18B20或LM35测温、利用二哈实现多人人脸学习和识别、利用TinywebDB实现云数据库应用、将测温数据mqtt上传至EasyIoT物联网云平台。
