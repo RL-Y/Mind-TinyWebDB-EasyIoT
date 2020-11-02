@@ -1,0 +1,6 @@
+1、硬件：掌控板、micro:bit掌控I/O扩展板、二哈、DS18B20
+【二哈购买官网：https://www.dfrobot.com.cn/】
+
+2、软件：Mind+【下载地址：http://mindplus.cc/】
+
+3、EasyIoT物联网云平台：http://iot.dfrobot.com.cn
